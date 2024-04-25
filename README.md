@@ -3,6 +3,8 @@
 To simplify `cargo check`, `cargo check --tests --benches`, `cargo test` for all `camigo`-related
 repositories.
 
+This itself is not a Rust crate (and is not published on crates.io).
+
 ## Limitation: symlinks
 
 This Rust workspace does not contain its members (crates). It refers to them through symlinks. So
