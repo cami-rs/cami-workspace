@@ -1,0 +1,4 @@
+[workspace]
+# All are symlinks to directories sibling to camigo-workspace
+members = ["camigo", "camigo-helpers", "camigo-helpers-tests"]
+
