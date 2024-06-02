@@ -1,3 +1,3 @@
 ## See
 
-[camigo > CONTRIBUTING](https://github.com/peter-kehl/camigo/blob/main/CONTRIBUTING.md)
+[cami > CONTRIBUTING](https://github.com/cami-rs/cami/blob/main/CONTRIBUTING.md)
