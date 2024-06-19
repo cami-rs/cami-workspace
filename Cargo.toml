@@ -1,3 +1,3 @@
 [workspace]
 # All are symlinks to directories sibling to cami-workspace/
-members = ["cami", "cami-benches", "cami-helpers", "cami-helpers-tests"]
+members = ["cami", "cami-benches", "cami-helpers", "cami-helpers-tests", "cami-tests"]
