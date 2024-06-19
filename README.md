@@ -36,6 +36,8 @@ So the directory subtree should look like:
 Then run `cargo check`, `cargo check --tests --benches`, `cargo test`, `cargo bench`... in this
 workspace (right under `cami-workspace/`).
 
+Beware: `cargo bench` may have problems. See <https://github.com/iai-callgrind/iai-callgrind/issues/4>.
+
 <!-- -->
 ## GIT ergonomics
 
